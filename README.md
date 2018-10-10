@@ -13,3 +13,10 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
+#### Architecture
+
+```
+> Using React for view
+> Using Redux to maintain state
+> Using react-router for Routing
+``` 
